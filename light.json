@@ -1,0 +1,42 @@
+{
+  "name": "SF Icon Light",
+  "description": "凉心自用 SF Symbol 图标包 ",
+  "icons": [
+    {
+      "name": "wand.and.stars",
+      "url": "https://raw.githubusercontent.com/52Lxcloud/SF-icon/main/light/wand.and.stars.png"
+    },
+    {
+      "name": "point.3.connected.trianglepath.dotted",
+      "url": "https://raw.githubusercontent.com/52Lxcloud/SF-icon/main/light/point.3.connected.trianglepath.dotted.png"
+    },
+    {
+      "name": "atom",
+      "url": "https://raw.githubusercontent.com/52Lxcloud/SF-icon/main/light/atom.png"
+    },
+    {
+      "name": "paperplane",
+      "url": "https://raw.githubusercontent.com/52Lxcloud/SF-icon/main/light/paperplane.png"
+    },
+    {
+      "name": "homepod.and.appletv",
+      "url": "https://raw.githubusercontent.com/52Lxcloud/SF-icon/main/light/homepod.and.appletv.png"
+    },
+    {
+      "name": "apple.logo",
+      "url": "https://raw.githubusercontent.com/52Lxcloud/SF-icon/main/light/apple.logo.png"
+    },
+    {
+      "name": "sailboat",
+      "url": "https://raw.githubusercontent.com/52Lxcloud/SF-icon/main/light/sailboat.png"
+    },
+    {
+      "name": "antenna.radiowaves.left.and.right",
+      "url": "https://raw.githubusercontent.com/52Lxcloud/SF-icon/main/light/antenna.radiowaves.left.and.right.png"
+    },
+    {
+      "name": "fish.fill",
+      "url": "https://raw.githubusercontent.com/52Lxcloud/SF-icon/main/light/fish.fill.png"
+    }
+  ]
+}
