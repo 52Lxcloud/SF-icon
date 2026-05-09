@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/52Lxcloud/SF-icon/main/light.json
   <tr>
     <td align="center"><img src="dark/sailboat.png" width="60"><br><sub>sailboat</sub></td>
     <td align="center"><img src="dark/antenna.radiowaves.left.and.right.png" width="60"><br><sub>antenna.radiowaves<br>.left.and.right</sub></td>
-    <td align="center"><img src="dark/fish.fill.png" width="60"><br><sub>fish.fill</sub></td>
+    <td align="center"><img src="dark/fish.png" width="60"><br><sub>fish</sub></td>
   </tr>
 </table>
 
@@ -50,6 +50,6 @@ https://raw.githubusercontent.com/52Lxcloud/SF-icon/main/light.json
   <tr>
     <td align="center"><img src="light/sailboat.png" width="60"><br><sub>sailboat</sub></td>
     <td align="center"><img src="light/antenna.radiowaves.left.and.right.png" width="60"><br><sub>antenna.radiowaves<br>.left.and.right</sub></td>
-    <td align="center"><img src="light/fish.fill.png" width="60"><br><sub>fish.fill</sub></td>
+    <td align="center"><img src="light/fish.png" width="60"><br><sub>fish</sub></td>
   </tr>
 </table>
